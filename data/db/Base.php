@@ -53,6 +53,10 @@ abstract class Base {
     public function getDb() {
         return $this->database;
     }
+
+    public function fff() {
+        echo "asd";
+    }
 }
 
 ?>
