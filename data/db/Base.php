@@ -46,25 +46,12 @@ abstract class Base {
         return $this->id;
     }
 
-    public function setId($id) {
-        if (!is_null($this->id))
-            throw new \Exception('ID nao pode ser alterado');
-        $this->id = (int) $id;
-    }
-
     public function getTable() {
         return $this->table;
     }
 
     public function getDb() {
         return $this->database;
-    }
-
-    public function save() {
-        if ($this->id)
-            return $this->update();
-        else
-            return $this->insert();
     }
 }
 
