@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56cd1d96-ba2c-4c8a-be5c-c4710e6effe0" name="Default" comment="change base.php&#10;" />
+    <list default="true" id="56cd1d96-ba2c-4c8a-be5c-c4710e6effe0" name="Default" comment="change base.php&#10;">
+      <change type="DELETED" beforePath="C:\Users\Pavel\APP\threeApp\data\db\info,php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="threeApp.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,10 +35,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Base.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Base.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/db/Base.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="5" selection-start="1419" selection-end="1419" vertical-scroll-proportion="1.4146341" vertical-offset="0" max-vertical-offset="1139">
+            <state line="24" column="0" selection-start="617" selection-end="617" vertical-scroll-proportion="1.3076923" vertical-offset="442" max-vertical-offset="1139">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/db/user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
               <folding />
             </state>
           </provider>
@@ -61,7 +73,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="q" />
+        <entry key="$PROJECT_DIR$" value="e" />
       </map>
     </option>
   </component>
@@ -109,7 +121,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -148,6 +159,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,6 +263,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/db/Base.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="5" selection-start="1419" selection-end="1419" vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/db/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="2" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/db/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="5" selection-start="1419" selection-end="1419" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1139">
           <folding />
         </state>
@@ -300,7 +333,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/db/Base.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="5" selection-start="1419" selection-end="1419" vertical-scroll-proportion="1.4146341" vertical-offset="0" max-vertical-offset="1139">
+        <state line="24" column="0" selection-start="617" selection-end="617" vertical-scroll-proportion="1.3076923" vertical-offset="442" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/db/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="723">
           <folding />
         </state>
       </provider>
